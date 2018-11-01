@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dcL\.android\build-cache\7465a59efae1653af4c35bc58cb90400eac7aab8\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d61432d9c98e8dac7e81e8f5dc701e3927f9769e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\e8c6b5f9d87bdf49cee47d1f7df21c0afd4c9046\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-05c78c7864bee92f51b25bffbc7b23598ff0a764.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\e5d8d048a95256060b6c2fd8f5c8078b11115f86\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bb2a3d17810954fdcb507acec8121881ab29e385.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\6c05dc8cf9a1b1d49870e74202e7a0442b0f0a94\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b1a2761a71c898b2d6f69d0c040969145101c585.jar" />
+    </item>
+    <item
+        jar="E:\Speech-Recognizer-master\speech\build\intermediates\bundles\default\classes.jar"
+        revision="25.0.3"
+        sha1="082bdc3b4a80fe20113bceace1d8f3b884476903">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7a08f0680cab8561954bcad494ed714d8f6e9cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\af8626afe2fc0804e5e88409a1ad8029243af690\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2c262029b0398983a44a0018e04284288555dc3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\a814d2a0b0b73f1c497c5287c49b657a625a0ab3\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-88861203d07233c9ce3f7468784b1ad2f51d9f49.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-1.1.6-3763996ef1b86a5e63e35b7c826cb2c59cfc4768.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\6e716e16f4b57ecf4a73c0c1e62fd26339314c4e\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8ab8b757fa65806f771b99a230557dc22d2d40e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\901148658926111cea614a7a3f21d8d55413346e\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="b43cbd5115bd64d3446584fa0da60fca063914c5">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6e48920aee16a3943758c6d376cbfee1453e4f6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\3d5eaf78a869e48ffc118af970949f41728b21e3\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-88630a40f08b761b20dc3f5277750b29fa0bbc85.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-85181fbada0deaffff4d093d92bef248af7352b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-2588e296248d612ca7a896a42d81b1db4e7d7b27.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\188ee432c9293a87b6b3467b5db3f44bee86802f\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4192a9ee8167b533b58048cc9dfa08f1a9b0cdcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\7dfe4783ecf5b4e1d2cd7342bb0bd08f180aa246\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-85401f017e9f8bcd6fad682c3a312e5f2a63d44b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\6dd6f49d82838836cd6e128ef503fc9f70162da1\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0e101bd40563f6a46406bd59b5e9c382a43254d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\efac41f751e8120d97b8458011e83f3db51e9598\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-480d7255daa40e14a2ac157c2f3a6d6576417e8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.0-fbd87215ba2fb9aff695a69179c432c223e39299.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-bf3d99d2d3f26557186a64c950984224d890be95.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\7ce00dd91c60fc9f507347f180aaeb79711612fb\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9ba435cdbe6f30536bcfea62ceec009339f0798d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\ad3b892adc67ed98aed381383abe1177a33b5242\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0d880c65ff2f668e25b2e6c5a0006199905b27e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dcL\.android\build-cache\febbe5694747b263771b5ebff1f360e2866bac90\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Speech-Recognizer-master\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2c96773ee27563def6eab4ac3054188e4c16ff91.jar" />
+    </item>
+
+</items>
